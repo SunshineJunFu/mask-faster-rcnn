@@ -166,3 +166,6 @@ Download and put the downloaded `.pth` and `.pkl` files into `output/res101/coco
 - Follow the ipython notebook of `test/check_model.ipynb` to test our model.
 
 
+## error 
+cuDNN version mismatch
+conda install cudnn=7.1.2
